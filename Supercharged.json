@@ -3,13 +3,13 @@
   "name": "Supercharged",
   "display_name": "Supercharged",
   "author": ["joelmforsyth"],
-  "description": "Buffs underperforming jokers and tarots for deep endless runs.",
+  "description": "Buffs underperforming elements for more build diversity.",
   "prefix": "sc",
   "main_file": "main.lua",
   "priority": 0,
   "badge_colour": "FF6B35",
   "badge_text_colour": "FFFFFF",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "dependencies": [
     "Steamodded (>=1.0.0~ALPHA-1228c)",
     "Lovely (>=0.6)"
